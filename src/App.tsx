@@ -1,10 +1,11 @@
 import React from 'react';
+import Botao from './components/botao';
 
 
 function App() {
   return (
     <div className="App">
-     Hello World
+      <Botao />
     </div>
   );
 }
